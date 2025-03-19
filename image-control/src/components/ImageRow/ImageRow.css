@@ -1,0 +1,128 @@
+.app__image__row {
+  border-bottom: 1px solid #e9ecef;
+  padding: 3em;
+}
+
+.app__image__row__buttons {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.app__image__row__buttons button:last-child {
+  background-color: #ffffff;
+  padding: 0.2em 0.5em;
+}
+
+.app__image__row__table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 18px;
+  text-align: left;
+}
+
+.app__image__row__table th,
+td {
+  /* border: 1px solid rgb(160 160 160); */
+  padding: 8px 10px;
+  text-align: left;
+}
+
+.app__image__row__table td {
+  padding-bottom: 2em;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.app__image__row__table .app__image__row__card .overlay {
+  width: 100%;
+  height: 100%;
+  background-color: #000000ba;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1200;
+}
+
+.app__image__row__table .app__image__row__card .overlay figure {
+  justify-self: center;
+  align-self: center;
+  z-index: 1500;
+  position: relative;
+}
+
+.app__image__row__table .app__image__row__card .overlay figure button {
+  position: absolute;
+  top: 10;
+  right: 10;
+}
+
+.app__image__row__table tbody td figure {
+  background-image: url('https://placehold.co/300x200/white/e8e5e5?text=not+found');
+  background-size: cover;
+  background-position: center;
+  width: 200px;
+  height: 210px;
+  border-radius: 8px;
+  margin-block: 1em;
+}
+
+.app__image__row__table tbody td figure figcaption {
+  background-color: #ffffff;
+}
+
+.app__image__row table figure img {
+  width: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.app__image__row__button {
+  padding: 0.2em 0.5em;
+  margin: 0 2em;
+}
+
+.no-images {
+  background: #e95353;
+  border: 1px solid #e95353;
+}
+
+.no-images:hover {
+  color: #ffffff;
+  border: 1px solid #e95353;
+}
+
+.active {
+  background: #5baf6e;
+  border: 1px solid #5baf6e;
+}
+
+.active:hover {
+  background: #5baf6e;
+  border: 1px solid #5baf6e;
+}
+
+@media screen and (max-width: 1580px) {
+  .app__image__row__table tbody td .figure-normal {
+    background-image: url('https://placehold.co/180x210/white/e8e5e5?text=not+found');
+    width: 180px;
+    height: 210px;
+  }
+}
+
+@media screen and (max-width: 1470px) {
+  .app__image__row__table tbody td .figure-normal {
+    background-image: url('https://placehold.co/150x210/white/e8e5e5?text=not+found');
+    width: 150px;
+    height: 210px;
+  }
+}
+
+@media screen and (max-width: 1320px) {
+  .app__image__row__table tbody td .figure-normal {
+    background-image: url('https://placehold.co/100x180/white/e8e5e5?text=not+found');
+    width: 100px;
+    height: 180px;
+  }
+}
