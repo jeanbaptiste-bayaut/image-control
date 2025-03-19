@@ -83,6 +83,8 @@ export default class MainController {
 
   static writeObservations(req, res) {
     const filePath = path.join(__dirname, 'api/data', 'observation.json');
+    console.log(req.body);
+
     const { observations } = req.body;
     console.log('observations', observations);
 
@@ -98,6 +100,8 @@ export default class MainController {
         file.map((item) => {
           result.push(item);
         });
+
+        console.log(observations);
 
         const newObservations = [...result, ...observations];
 

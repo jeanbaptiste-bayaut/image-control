@@ -84,13 +84,14 @@ td {
 }
 
 .no-images {
-  background: #e95353;
-  border: 1px solid #e95353;
+  background: #f4bebe;
+  border: 2px solid #e95353;
+  color: #000000;
 }
 
 .no-images:hover {
   color: #ffffff;
-  border: 1px solid #e95353;
+  border: 2px solid #e95353;
 }
 
 .active {

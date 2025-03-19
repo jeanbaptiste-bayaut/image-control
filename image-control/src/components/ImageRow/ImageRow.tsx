@@ -66,7 +66,7 @@ function ImageRow(lineList: LineListProp) {
     const result = axios.post(
       'http://localhost:8080/api/products/observations',
       {
-        exportTable,
+        observations: exportTable,
       }
     );
 
@@ -128,7 +128,7 @@ function ImageRow(lineList: LineListProp) {
           className={active ? 'no-images active' : 'no-images'}
           onClick={handleMissingImages}
         >
-          Images Missing
+          No Images
         </button>
         <section className="app__image__row__buttons__right">
           <button

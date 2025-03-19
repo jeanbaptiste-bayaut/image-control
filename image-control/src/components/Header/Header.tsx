@@ -1,4 +1,5 @@
 import axios from 'axios';
+import { CSVLink } from 'react-csv';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFileDownload } from '@fortawesome/free-solid-svg-icons';
 import './Header.css';
@@ -24,10 +25,13 @@ type ProductStatusProps = {
 
 function Header(lineList: LineListProp) {
   const [overlay, setOverlay] = useState(false);
+  const [csvData, setCsvData] = useState([]);
 
   async function getObservations() {
-    const result = await axios.get('http://localhost:8080/api/observations');
-    console.log(result.data);
+    const result = await axios.get(
+      'http://localhost:8080/api/products/observations'
+    );
+    setCsvData(result.data);
   }
 
   return (
@@ -64,15 +68,34 @@ function Header(lineList: LineListProp) {
           {lineList.lineList[lineList.index].color}
         </p>
       </section>
-      <button
-        className="app__header__right-part"
-        onClick={() => {
-          getObservations();
-          window.location.reload();
-        }}
-      >
-        <FontAwesomeIcon icon={faFileDownload} size="xl" />
-      </button>
+      {csvData.length < 1 ? (
+        <button
+          className="app__header__right-part"
+          onClick={async () => {
+            await getObservations();
+          }}
+        >
+          <FontAwesomeIcon
+            icon={faFileDownload}
+            size="xl"
+            style={{ color: '#cfd0d3' }}
+          />
+        </button>
+      ) : null}
+      {csvData.length > 1 ? (
+        <button
+          className="app__header__right-part"
+          onClick={() => setCsvData([])}
+        >
+          <CSVLink data={csvData} filename="observations.csv">
+            <FontAwesomeIcon
+              icon={faFileDownload}
+              size="xl"
+              style={{ color: '#2fa059' }}
+            />
+          </CSVLink>
+        </button>
+      ) : null}
     </header>
   );
 }

@@ -44,13 +44,13 @@
     "pattern": "adys100551",
     "color": "103",
     "name": "CENTRAL",
-    "status": "false"
+    "status": "true"
   },
   {
     "pattern": "adys100551",
     "color": "210",
     "name": "CENTRAL",
-    "status": "false"
+    "status": "true"
   },
   {
     "pattern": "adys100551",
@@ -62,73 +62,73 @@
     "pattern": "adys100551",
     "color": "bb2",
     "name": "CENTRAL",
-    "status": "false"
+    "status": "true"
   },
   {
     "pattern": "adys100551",
     "color": "bkw",
     "name": "CENTRAL",
-    "status": "false"
+    "status": "true"
   },
   {
     "pattern": "adys100551",
     "color": "kkg",
     "name": "CENTRAL",
-    "status": "false"
+    "status": "true"
   },
   {
     "pattern": "adys100822",
     "color": "005",
     "name": "CONSTRUCT",
-    "status": "false"
+    "status": "true"
   },
   {
     "pattern": "adys100822",
     "color": "026",
     "name": "CONSTRUCT",
-    "status": "false"
+    "status": "true"
   },
   {
     "pattern": "adys100822",
     "color": "061",
     "name": "CONSTRUCT",
-    "status": "false"
+    "status": "true"
   },
   {
     "pattern": "adys100822",
     "color": "111",
     "name": "CONSTRUCT",
-    "status": "false"
+    "status": "true"
   },
   {
     "pattern": "adys100822",
     "color": "210",
     "name": "CONSTRUCT",
-    "status": "false"
+    "status": "true"
   },
   {
     "pattern": "adys100822",
     "color": "211",
     "name": "CONSTRUCT",
-    "status": "false"
+    "status": "true"
   },
   {
     "pattern": "adys100822",
     "color": "410",
     "name": "CONSTRUCT",
-    "status": "false"
+    "status": "true"
   },
   {
     "pattern": "adys100822",
     "color": "bkw",
     "name": "CONSTRUCT",
-    "status": "false"
+    "status": "true"
   },
   {
     "pattern": "300529",
     "color": "001",
     "name": "COURT GRAFFIK",
-    "status": "false"
+    "status": "true"
   },
   {
     "pattern": "300529",
