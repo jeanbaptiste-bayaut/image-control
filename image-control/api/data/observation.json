@@ -1,0 +1,110 @@
+[
+  {
+    "pattern": "dc02240",
+    "color": "210",
+    "shot": "ALL",
+    "naming": "false",
+    "light": "false",
+    "view": "true",
+    "other": "No images found"
+  },
+  {
+    "pattern": "adyl100026",
+    "color": "001",
+    "shot": "frt5",
+    "naming": "false",
+    "light": "false",
+    "view": true,
+    "other": ""
+  },
+  {
+    "pattern": "adyl100026",
+    "color": "3bk",
+    "shot": "frt5",
+    "naming": "false",
+    "light": "false",
+    "view": true,
+    "other": ""
+  },
+  {
+    "pattern": "adys100551",
+    "color": "026",
+    "shot": "frt1",
+    "naming": "false",
+    "light": "false",
+    "view": true,
+    "other": ""
+  },
+  {
+    "pattern": "adys100551",
+    "color": "bb2",
+    "shot": "frt5",
+    "naming": "false",
+    "light": "false",
+    "view": true,
+    "other": ""
+  },
+  {
+    "pattern": "adys100551",
+    "color": "bb2",
+    "shot": "bck2",
+    "naming": "false",
+    "light": "false",
+    "view": true,
+    "other": ""
+  },
+  {
+    "pattern": "adys100551",
+    "color": "bkw",
+    "shot": "frt5",
+    "naming": "false",
+    "light": "false",
+    "view": true,
+    "other": ""
+  },
+  {
+    "pattern": "adys100551",
+    "color": "kkg",
+    "shot": "frt5",
+    "naming": "false",
+    "light": "false",
+    "view": true,
+    "other": ""
+  },
+  {
+    "pattern": "adys100551",
+    "color": "kkg",
+    "shot": "bck1",
+    "naming": "false",
+    "light": "false",
+    "view": true,
+    "other": ""
+  },
+  {
+    "pattern": "adys100822",
+    "color": "061",
+    "shot": "ALL",
+    "naming": "false",
+    "light": "false",
+    "view": "true",
+    "other": "No images found"
+  },
+  {
+    "pattern": "adys100822",
+    "color": "bkw",
+    "shot": "frt5",
+    "naming": "false",
+    "light": "false",
+    "view": true,
+    "other": ""
+  },
+  {
+    "pattern": "300529",
+    "color": "001",
+    "shot": "frt5",
+    "naming": "false",
+    "light": "false",
+    "view": true,
+    "other": ""
+  }
+]

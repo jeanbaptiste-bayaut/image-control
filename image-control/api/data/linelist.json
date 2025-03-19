@@ -1,0 +1,2509 @@
+[
+  {
+    "pattern": "dc02240",
+    "color": "002",
+    "name": "ALIAS",
+    "status": "true"
+  },
+  {
+    "pattern": "dc02240",
+    "color": "102",
+    "name": "ALIAS",
+    "status": "true"
+  },
+  {
+    "pattern": "dc02240",
+    "color": "210",
+    "name": "ALIAS",
+    "status": "true"
+  },
+  {
+    "pattern": "dc02240",
+    "color": "410",
+    "name": "ALIAS"
+  },
+  {
+    "pattern": "adyl100026",
+    "color": "001",
+    "name": "BOLSA",
+    "status": "true"
+  },
+  {
+    "pattern": "adyl100026",
+    "color": "3bk",
+    "name": "BOLSA",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100551",
+    "color": "026",
+    "name": "CENTRAL",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100551",
+    "color": "103",
+    "name": "CENTRAL",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100551",
+    "color": "210",
+    "name": "CENTRAL",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100551",
+    "color": "256",
+    "name": "CENTRAL",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100551",
+    "color": "bb2",
+    "name": "CENTRAL",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100551",
+    "color": "bkw",
+    "name": "CENTRAL",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100551",
+    "color": "kkg",
+    "name": "CENTRAL",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100822",
+    "color": "005",
+    "name": "CONSTRUCT",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100822",
+    "color": "026",
+    "name": "CONSTRUCT",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100822",
+    "color": "061",
+    "name": "CONSTRUCT",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100822",
+    "color": "111",
+    "name": "CONSTRUCT",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100822",
+    "color": "210",
+    "name": "CONSTRUCT",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100822",
+    "color": "211",
+    "name": "CONSTRUCT",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100822",
+    "color": "410",
+    "name": "CONSTRUCT",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100822",
+    "color": "bkw",
+    "name": "CONSTRUCT",
+    "status": "true"
+  },
+  {
+    "pattern": "300529",
+    "color": "001",
+    "name": "COURT GRAFFIK",
+    "status": "true"
+  },
+  {
+    "pattern": "300529",
+    "color": "009",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "022",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "025",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "032",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "061",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "114",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "211",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "310",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "3bk",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "410",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "601",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "806",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "bgm",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "bl0",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "che",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "gbw",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "grw",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "ros",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "ttc",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "wlk",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "wnr",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100647",
+    "color": "211",
+    "name": "CRISIS 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100647",
+    "color": "2gg",
+    "name": "CRISIS 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100647",
+    "color": "301",
+    "name": "CRISIS 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100647",
+    "color": "3bk",
+    "name": "CRISIS 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100647",
+    "color": "410",
+    "name": "CRISIS 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100647",
+    "color": "bgm",
+    "name": "CRISIS 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100647",
+    "color": "bkw",
+    "name": "CRISIS 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100647",
+    "color": "snd",
+    "name": "CRISIS 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100647",
+    "color": "ccc",
+    "name": "CRISIS 2 ",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100700",
+    "color": "256",
+    "name": "CRISIS 2 HI WN",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100700",
+    "color": "310",
+    "name": "CRISIS 2 HI WN",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100700",
+    "color": "bb2",
+    "name": "CRISIS 2 HI WN",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100700",
+    "color": "chr",
+    "name": "CRISIS 2 HI WN",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100442",
+    "color": "byr",
+    "name": "CT GRAFFIK SQ",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100844",
+    "color": "003",
+    "name": "DC ASCEND",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100844",
+    "color": "004",
+    "name": "DC ASCEND",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100844",
+    "color": "025",
+    "name": "DC ASCEND",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100844",
+    "color": "112",
+    "name": "DC ASCEND",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100844",
+    "color": "210",
+    "name": "DC ASCEND",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100844",
+    "color": "256",
+    "name": "DC ASCEND",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100844",
+    "color": "bkw",
+    "name": "DC ASCEND",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100844",
+    "color": "kkg",
+    "name": "DC ASCEND",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100844",
+    "color": "ksw",
+    "name": "DC ASCEND ",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100852",
+    "color": "002",
+    "name": "DC ASCEND S",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100852",
+    "color": "102",
+    "name": "DC ASCEND S",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100852",
+    "color": "210",
+    "name": "DC ASCEND S",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02261",
+    "color": "001",
+    "name": "DC ASTRIX",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02261",
+    "color": "101",
+    "name": "DC ASTRIX",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02261",
+    "color": "102",
+    "name": "DC ASTRIX",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02261",
+    "color": "256",
+    "name": "DC ASTRIX",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02261",
+    "color": "410",
+    "name": "DC ASTRIX",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02741",
+    "color": "025",
+    "name": "DC ASTRIX S",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02741",
+    "color": "101",
+    "name": "DC ASTRIX S",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02741",
+    "color": "210",
+    "name": "DC ASTRIX S",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02741",
+    "color": "301",
+    "name": "DC ASTRIX S",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03293",
+    "color": "301",
+    "name": "DC ASTRIX SE",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03011",
+    "color": "001",
+    "name": "DC COILER",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03011",
+    "color": "002",
+    "name": "DC COILER",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03011",
+    "color": "003",
+    "name": "DC COILER",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03011",
+    "color": "025",
+    "name": "DC COILER",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03011",
+    "color": "026",
+    "name": "DC COILER",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03011",
+    "color": "210",
+    "name": "DC COILER",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02220",
+    "color": "002",
+    "name": "DC COMMAND",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02220",
+    "color": "003",
+    "name": "DC COMMAND",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02220",
+    "color": "004",
+    "name": "DC COMMAND",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02220",
+    "color": "006",
+    "name": "DC COMMAND",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02220",
+    "color": "102",
+    "name": "DC COMMAND",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03287",
+    "color": "301",
+    "name": "DC COMMAND",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100626",
+    "color": "025",
+    "name": "DC METRIC",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100742",
+    "color": "256",
+    "name": "DC METRIC LE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100634",
+    "color": "210",
+    "name": "DC METRIC S",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300762",
+    "color": "wea",
+    "name": "DC REACH",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300580",
+    "color": "072",
+    "name": "HYDE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300580",
+    "color": "3bk",
+    "name": "HYDE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300580",
+    "color": "bgm",
+    "name": "HYDE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300580",
+    "color": "blw",
+    "name": "HYDE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300768",
+    "color": "dgu",
+    "name": "HYDE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300768",
+    "color": "no3",
+    "name": "HYDE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300768",
+    "color": "ol0",
+    "name": "HYDE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300580",
+    "color": "snd",
+    "name": "HYDE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300580",
+    "color": "we9",
+    "name": "HYDE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300744",
+    "color": "002",
+    "name": "KALISVULCMIDWN",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300744",
+    "color": "301",
+    "name": "KALISVULCMIDWN",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100819",
+    "color": "004",
+    "name": "KALYNX ZERO",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100819",
+    "color": "102",
+    "name": "KALYNX ZERO",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100819",
+    "color": "210",
+    "name": "KALYNX ZERO",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100819",
+    "color": "bg3",
+    "name": "KALYNX ZERO",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100615",
+    "color": "112",
+    "name": "LYNX ZERO",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100615",
+    "color": "210",
+    "name": "LYNX ZERO",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100615",
+    "color": "410",
+    "name": "LYNX ZERO",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100615",
+    "color": "kkw",
+    "name": "LYNX ZERO ",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "021",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "026",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "027",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "118",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "258",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "272",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "301",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "410",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "411",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "bkw",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "che",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "hbw",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "kkg",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "ros",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "wbi",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "wbk",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100743",
+    "color": "006",
+    "name": "MANTECA 4 HI",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100743",
+    "color": "026",
+    "name": "MANTECA 4 HI",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100743",
+    "color": "027",
+    "name": "MANTECA 4 HI",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100743",
+    "color": "062",
+    "name": "MANTECA 4 HI",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100743",
+    "color": "311",
+    "name": "MANTECA 4 HI",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100743",
+    "color": "410",
+    "name": "MANTECA 4 HI",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100743",
+    "color": "bkw",
+    "name": "MANTECA 4 HI",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100743",
+    "color": "hhb",
+    "name": "MANTECA 4 HI",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100791",
+    "color": "210",
+    "name": "MANTECA 4 HI S",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100787",
+    "color": "001",
+    "name": "MANTECA 4 HI W",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100787",
+    "color": "210",
+    "name": "MANTECA 4 HI W",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100766",
+    "color": "025",
+    "name": "MANTECA 4 S",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100766",
+    "color": "256",
+    "name": "MANTECA 4 S",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100766",
+    "color": "310",
+    "name": "MANTECA 4 S",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100766",
+    "color": "bw6",
+    "name": "MANTECA 4 S",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100314",
+    "color": "210",
+    "name": "MANTECA SE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300591",
+    "color": "bgm",
+    "name": "MANUAL",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300591",
+    "color": "bkw",
+    "name": "MANUAL",
+    "status": "false"
+  },
+  {
+    "pattern": "adys700216",
+    "color": "002",
+    "name": "MASON 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys700216",
+    "color": "256",
+    "name": "MASON 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys700216",
+    "color": "3bk",
+    "name": "MASON 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys700216",
+    "color": "dbr",
+    "name": "MASON 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb700044",
+    "color": "3bk",
+    "name": "MUTINY WR",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb700044",
+    "color": "wea",
+    "name": "MUTINY WR",
+    "status": "false"
+  },
+  {
+    "pattern": "302361",
+    "color": "025",
+    "name": "NET",
+    "status": "false"
+  },
+  {
+    "pattern": "302361",
+    "color": "1ab",
+    "name": "NET",
+    "status": "false"
+  },
+  {
+    "pattern": "302361",
+    "color": "3bk",
+    "name": "NET",
+    "status": "false"
+  },
+  {
+    "pattern": "302361",
+    "color": "blw",
+    "name": "NET",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03260",
+    "color": "025",
+    "name": "NET SE",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03260",
+    "color": "101",
+    "name": "NET SE",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb700045",
+    "color": "256",
+    "name": "PEARY TR",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb700045",
+    "color": "bb2",
+    "name": "PEARY TR",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb700045",
+    "color": "dcc",
+    "name": "PEARY TR",
+    "status": "false"
+  },
+  {
+    "pattern": "300660",
+    "color": "005",
+    "name": "PURE",
+    "status": "false"
+  },
+  {
+    "pattern": "300660",
+    "color": "027",
+    "name": "PURE",
+    "status": "false"
+  },
+  {
+    "pattern": "300660",
+    "color": "029",
+    "name": "PURE",
+    "status": "false"
+  },
+  {
+    "pattern": "300660",
+    "color": "cg5",
+    "name": "PURE",
+    "status": "false"
+  },
+  {
+    "pattern": "300660",
+    "color": "go0",
+    "name": "PURE",
+    "status": "false"
+  },
+  {
+    "pattern": "300660",
+    "color": "lpb",
+    "name": "PURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400043",
+    "color": "007",
+    "name": "PURE HT WC",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400043",
+    "color": "008",
+    "name": "PURE HT WC",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400043",
+    "color": "025",
+    "name": "PURE HT WC",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400043",
+    "color": "bgm",
+    "name": "PURE HT WC",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400043",
+    "color": "blw",
+    "name": "PURE HT WC",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400043",
+    "color": "fwb",
+    "name": "PURE HT WC",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400043",
+    "color": "kba",
+    "name": "PURE HT WC",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400047",
+    "color": "021",
+    "name": "PURE HT WC WNT",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400047",
+    "color": "256",
+    "name": "PURE HT WC WNT",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400047",
+    "color": "3bk",
+    "name": "PURE HT WC WNT",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400047",
+    "color": "doo",
+    "name": "PURE HT WC WNT",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400047",
+    "color": "wea",
+    "name": "PURE HT WC WNT",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb100018",
+    "color": "002",
+    "name": "PURE HT WR BOO",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb100018",
+    "color": "301",
+    "name": "PURE HT WR BOO",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb100018",
+    "color": "bgm",
+    "name": "PURE HT WR BOO",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb100018",
+    "color": "wea",
+    "name": "PURE HT WR BOO",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300151",
+    "color": "001",
+    "name": "PURE WNT",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300151",
+    "color": "021",
+    "name": "PURE WNT",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300151",
+    "color": "301",
+    "name": "PURE WNT",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300151",
+    "color": "we9",
+    "name": "PURE WNT",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02635",
+    "color": "001",
+    "name": "RECON",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02635",
+    "color": "210",
+    "name": "RECON",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02843",
+    "color": "310",
+    "name": "RECON",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400066",
+    "color": "bkw",
+    "name": "SKYLINE",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "009",
+    "name": "STAG",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "113",
+    "name": "STAG",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "114",
+    "name": "STAG",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "212",
+    "name": "STAG",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "258",
+    "name": "STAG",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "2gg",
+    "name": "STAG",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "310",
+    "name": "STAG",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "365",
+    "name": "STAG",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "421",
+    "name": "STAG",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "bgm",
+    "name": "STAG",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "bgy",
+    "name": "STAG",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "byr",
+    "name": "STAG",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "che",
+    "name": "STAG",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "gbw",
+    "name": "STAG",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "gy1",
+    "name": "STAG",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "ros",
+    "name": "STAG",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "tzp",
+    "name": "STAG",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "whk",
+    "name": "STAG",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02399",
+    "color": "001",
+    "name": "STAG WNT",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02399",
+    "color": "235",
+    "name": "STAG WNT",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100624",
+    "color": "wkm",
+    "name": "STRIKER",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300763",
+    "color": "062",
+    "name": "TEKNIC",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300763",
+    "color": "102",
+    "name": "TEKNIC",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300763",
+    "color": "bgm",
+    "name": "TEKNIC",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300763",
+    "color": "bkw",
+    "name": "TEKNIC",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300763",
+    "color": "chl",
+    "name": "TEKNIC",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300763",
+    "color": "de0",
+    "name": "TEKNIC",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300763",
+    "color": "dgu",
+    "name": "TEKNIC",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300763",
+    "color": "snd",
+    "name": "TEKNIC",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300739",
+    "color": "002",
+    "name": "TEKNIC S",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300739",
+    "color": "025",
+    "name": "TEKNIC S",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300739",
+    "color": "bkw",
+    "name": "TEKNIC S",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300739",
+    "color": "kkg",
+    "name": "TEKNIC S",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300769",
+    "color": "061",
+    "name": "TONIK",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300769",
+    "color": "301",
+    "name": "TONIK",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300769",
+    "color": "bb2",
+    "name": "TONIK",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300770",
+    "color": "bbk",
+    "name": "TONIK TX SE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300770",
+    "color": "lgy",
+    "name": "TONIK TX SE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300770",
+    "color": "we9",
+    "name": "TONIK TX SE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300770",
+    "color": "yrs",
+    "name": "TONIK TX SE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300172",
+    "color": "302",
+    "name": "TRASE SD",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300172",
+    "color": "ngm",
+    "name": "TRASE SD",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300172",
+    "color": "kks",
+    "name": "TRASE SD ",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300126",
+    "color": "bgm",
+    "name": "TRASE TX",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300126",
+    "color": "bkw",
+    "name": "TRASE TX",
+    "status": "false"
+  },
+  {
+    "pattern": "adys200075",
+    "color": "001",
+    "name": "VERSATILE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys200075",
+    "color": "111",
+    "name": "VERSATILE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys200075",
+    "color": "bwa",
+    "name": "VERSATILE",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb100019",
+    "color": "210",
+    "name": "VERSATILE HI W",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb100019",
+    "color": "3bk",
+    "name": "VERSATILE HI W",
+    "status": "false"
+  },
+  {
+    "pattern": "adys200076",
+    "color": "002",
+    "name": "VERSATILE LE",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb700042",
+    "color": "210",
+    "name": "WOODLAND",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb700042",
+    "color": "256",
+    "name": "WOODLAND",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb700042",
+    "color": "bgm",
+    "name": "WOODLAND",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs300243",
+    "color": "111",
+    "name": "CHELSEA",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs300243",
+    "color": "256",
+    "name": "CHELSEA",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs300243",
+    "color": "cbl",
+    "name": "CHELSEA",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs300243",
+    "color": "ros",
+    "name": "CHELSEA",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs300310",
+    "color": "003",
+    "name": "CHELSEA PT",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs300310",
+    "color": "101",
+    "name": "CHELSEA PT",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100172",
+    "color": "001",
+    "name": "CONSTRUCT",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100172",
+    "color": "026",
+    "name": "CONSTRUCT",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100172",
+    "color": "430",
+    "name": "CONSTRUCT",
+    "status": "false"
+  },
+  {
+    "pattern": "300678",
+    "color": "006",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300678",
+    "color": "101",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300678",
+    "color": "114",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300678",
+    "color": "656",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300678",
+    "color": "bhp",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300678",
+    "color": "bws",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300678",
+    "color": "kps",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "300678",
+    "color": "wm5",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "301043",
+    "color": "025",
+    "name": "COURT GRAFFIK ",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02789",
+    "color": "001",
+    "name": "DC ASTRIX",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02789",
+    "color": "101",
+    "name": "DC ASTRIX",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02789",
+    "color": "272",
+    "name": "DC ASTRIX",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02789",
+    "color": "430",
+    "name": "DC ASTRIX",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02744",
+    "color": "002",
+    "name": "DC COMMAND",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02744",
+    "color": "003",
+    "name": "DC COMMAND",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02744",
+    "color": "256",
+    "name": "DC COMMAND",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03278",
+    "color": "025",
+    "name": "DC COMMAND SE",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100161",
+    "color": "026",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100161",
+    "color": "112",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100161",
+    "color": "256",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100161",
+    "color": "431",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100161",
+    "color": "wpn",
+    "name": "MANTECA 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adjb100012",
+    "color": "025",
+    "name": "MANTECA 4 BOOT",
+    "status": "false"
+  },
+  {
+    "pattern": "adjb100012",
+    "color": "256",
+    "name": "MANTECA 4 BOOT",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100162",
+    "color": "026",
+    "name": "MANTECA 4 MID",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100162",
+    "color": "111",
+    "name": "MANTECA 4 MID",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100162",
+    "color": "431",
+    "name": "MANTECA 4 MID",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100156",
+    "color": "ww0",
+    "name": "MANTECA 4 PT",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03068",
+    "color": "003",
+    "name": "PURE",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03068",
+    "color": "004",
+    "name": "PURE",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03068",
+    "color": "102",
+    "name": "PURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100207",
+    "color": "026",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100207",
+    "color": "102",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100207",
+    "color": "bkw",
+    "name": "COURT GRAFFIK",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03276",
+    "color": "001",
+    "name": "COURT GRAFFIK ",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700064",
+    "color": "bkw",
+    "name": "HTHRW PRSTGE E",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700064",
+    "color": "byr",
+    "name": "HTHRW PRSTGE E",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700064",
+    "color": "dvg",
+    "name": "HTHRW PRSTGE E",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700064",
+    "color": "skl",
+    "name": "HTHRW PRSTGE E",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700064",
+    "color": "kwb",
+    "name": "HTHRW PRSTGE E",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300395",
+    "color": "004",
+    "name": "MANTECA 4 HI",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300395",
+    "color": "007",
+    "name": "MANTECA 4 HI",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300395",
+    "color": "102",
+    "name": "MANTECA 4 HI",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300398",
+    "color": "256",
+    "name": "MANTECA 4 HI W",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300378",
+    "color": "005",
+    "name": "MANTECA 4 V",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300378",
+    "color": "025",
+    "name": "MANTECA 4 V",
+    "status": "false"
+  },
+  {
+    "pattern": "adgs100100",
+    "color": "102",
+    "name": "MANTECA 4 V",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300378",
+    "color": "272",
+    "name": "MANTECA 4 V",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300378",
+    "color": "411",
+    "name": "MANTECA 4 V",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300378",
+    "color": "412",
+    "name": "MANTECA 4 V",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300385",
+    "color": "112",
+    "name": "MANTECA 4 V SN",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300385",
+    "color": "113",
+    "name": "MANTECA 4 V SN",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300267",
+    "color": "111",
+    "name": "PURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300267",
+    "color": "wbd",
+    "name": "PURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300256",
+    "color": "001",
+    "name": "PURE ELASTIC",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300256",
+    "color": "031",
+    "name": "PURE ELASTIC",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300256",
+    "color": "310",
+    "name": "PURE ELASTIC",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300324",
+    "color": "008",
+    "name": "PURE HT EV",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300324",
+    "color": "009",
+    "name": "PURE HT EV",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300324",
+    "color": "028",
+    "name": "PURE HT EV",
+    "status": "false"
+  },
+  {
+    "pattern": "adgs100099",
+    "color": "102",
+    "name": "PURE HT EV",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300324",
+    "color": "310",
+    "name": "PURE HT EV",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300324",
+    "color": "bgm",
+    "name": "PURE HT EV",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300324",
+    "color": "wea",
+    "name": "PURE HT EV",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300329",
+    "color": "112",
+    "name": "PURE HT EV SN",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300329",
+    "color": "113",
+    "name": "PURE HT EV SN",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300327",
+    "color": "310",
+    "name": "PURE HT WNT EV",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300327",
+    "color": "we9",
+    "name": "PURE HT WNT EV",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02186",
+    "color": "008",
+    "name": "STAG YOUTH",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02186",
+    "color": "009",
+    "name": "STAG YOUTH",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02186",
+    "color": "062",
+    "name": "STAG YOUTH",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02186",
+    "color": "064",
+    "name": "STAG YOUTH",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02186",
+    "color": "410",
+    "name": "STAG YOUTH",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300399",
+    "color": "026",
+    "name": "TEKNIC",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300399",
+    "color": "bkw",
+    "name": "TEKNIC",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02547",
+    "color": "002",
+    "name": "TODDLER CG V ",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02547",
+    "color": "102",
+    "name": "TODDLER CG V ",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02547",
+    "color": "210",
+    "name": "TODDLER CG V ",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02788",
+    "color": "003",
+    "name": "TODDLER MANTEC",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02788",
+    "color": "102",
+    "name": "TODDLER MANTEC",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02788",
+    "color": "210",
+    "name": "TODDLER MANTEC",
+    "status": "false"
+  },
+  {
+    "pattern": "303190",
+    "color": "bb2",
+    "name": "ANVIL",
+    "status": "false"
+  },
+  {
+    "pattern": "303190",
+    "color": "bgm",
+    "name": "ANVIL",
+    "status": "false"
+  },
+  {
+    "pattern": "303190",
+    "color": "dgu",
+    "name": "ANVIL",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700090",
+    "color": "004",
+    "name": "CURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700090",
+    "color": "025",
+    "name": "CURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700090",
+    "color": "062",
+    "name": "CURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400073",
+    "color": "064",
+    "name": "CURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400073",
+    "color": "065",
+    "name": "CURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adgs100097",
+    "color": "101",
+    "name": "CURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400073",
+    "color": "210",
+    "name": "CURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700090",
+    "color": "210",
+    "name": "CURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400073",
+    "color": "410",
+    "name": "CURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700094",
+    "color": "004",
+    "name": "CURE ELASTIC",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700094",
+    "color": "025",
+    "name": "CURE ELASTIC",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700094",
+    "color": "062",
+    "name": "CURE ELASTIC",
+    "status": "false"
+  },
+  {
+    "pattern": "adgs100098",
+    "color": "101",
+    "name": "CURE ELASTIC",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700094",
+    "color": "210",
+    "name": "CURE ELASTIC",
+    "status": "false"
+  },
+  {
+    "pattern": "adgs700034",
+    "color": "002",
+    "name": "CURE HI TOP",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700089",
+    "color": "025",
+    "name": "CURE HI TOP",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400072",
+    "color": "025",
+    "name": "CURE HI TOP",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700089",
+    "color": "102",
+    "name": "CURE HI TOP",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400072",
+    "color": "210",
+    "name": "CURE HI TOP",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700089",
+    "color": "210",
+    "name": "CURE HI TOP",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400072",
+    "color": "bgm",
+    "name": "CURE HI TOP",
+    "status": "false"
+  },
+  {
+    "pattern": "adgs700035",
+    "color": "002",
+    "name": "CURE HI TOP EL",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700093",
+    "color": "025",
+    "name": "CURE HI TOP EL",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700093",
+    "color": "102",
+    "name": "CURE HI TOP EL",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700093",
+    "color": "210",
+    "name": "CURE HI TOP EL",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400080",
+    "color": "257",
+    "name": "CURE HI TOP SN",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03266",
+    "color": "210",
+    "name": "CURE HT WNT",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03266",
+    "color": "211",
+    "name": "CURE HT WNT",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03271",
+    "color": "210",
+    "name": "CURE HT WNT YT",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03271",
+    "color": "256",
+    "name": "CURE HT WNT YT",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03272",
+    "color": "210",
+    "name": "CURE HTWNTYTHE",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03272",
+    "color": "256",
+    "name": "CURE HTWNTYTHE",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03267",
+    "color": "025",
+    "name": "CURE LOW WNT",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03267",
+    "color": "210",
+    "name": "CURE LOW WNT",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700093",
+    "color": "3bk",
+    "name": "DC CURE HI E",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700089",
+    "color": "3bk",
+    "name": "DC CURE HI TOP",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400072",
+    "color": "bkw",
+    "name": "DC CURE HI TOP",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400072",
+    "color": "gg4",
+    "name": "DC CURE HI TOP",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400078",
+    "color": "blw",
+    "name": "DC CURE S DN",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700090",
+    "color": "001",
+    "name": "DC SHOES CURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700090",
+    "color": "061",
+    "name": "DC SHOES CURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400073",
+    "color": "062",
+    "name": "DC SHOES CURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400073",
+    "color": "blg",
+    "name": "DC SHOES CURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400073",
+    "color": "blk",
+    "name": "DC SHOES CURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400073",
+    "color": "hlc",
+    "name": "DC SHOES CURE",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400073",
+    "color": "krk",
+    "name": "DC SHOES CURE ",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700094",
+    "color": "060",
+    "name": "DC SHOES CURE ",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700094",
+    "color": "061",
+    "name": "DC SHOES CURE ",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700091",
+    "color": "wkr",
+    "name": "DCSHOES CURE D",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "005",
+    "name": "GAVELER",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "020",
+    "name": "GAVELER",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "061",
+    "name": "GAVELER",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100263",
+    "color": "061",
+    "name": "GAVELER",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100263",
+    "color": "062",
+    "name": "GAVELER",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "063",
+    "name": "GAVELER",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "101",
+    "name": "GAVELER",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100263",
+    "color": "102",
+    "name": "GAVELER",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "bdp",
+    "name": "GAVELER",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "bgm",
+    "name": "GAVELER",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100263",
+    "color": "bl0",
+    "name": "GAVELER",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "bl4",
+    "name": "GAVELER",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100263",
+    "color": "blo",
+    "name": "GAVELER",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "bo1",
+    "name": "GAVELER",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "ebn",
+    "name": "GAVELER",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100304",
+    "color": "bkw",
+    "name": "GAVELER DN",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100297",
+    "color": "061",
+    "name": "GAVELER ELASTI",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100297",
+    "color": "062",
+    "name": "GAVELER ELASTI",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100297",
+    "color": "102",
+    "name": "GAVELER ELASTI",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100297",
+    "color": "blo",
+    "name": "GAVELER ELASTI",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03265",
+    "color": "101",
+    "name": "GAVELER SE",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03265",
+    "color": "256",
+    "name": "GAVELER SE",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03265",
+    "color": "430",
+    "name": "GAVELER SE",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03268",
+    "color": "001",
+    "name": "GAVELER WNT",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03268",
+    "color": "210",
+    "name": "GAVELER WNT",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03269",
+    "color": "001",
+    "name": "GAVELER YTH WN",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03269",
+    "color": "210",
+    "name": "GAVELER YTH WN",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03270",
+    "color": "001",
+    "name": "GAVELER YTHWNT",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03270",
+    "color": "210",
+    "name": "GAVELER YTHWNT",
+    "status": "false"
+  }
+]
