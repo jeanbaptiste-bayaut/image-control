@@ -79,5 +79,14 @@
     "light": "false",
     "view": "true",
     "other": "No images found"
+  },
+  {
+    "pattern": "300529",
+    "color": "001",
+    "shot": "frt5",
+    "naming": "false",
+    "light": "false",
+    "view": true,
+    "other": ""
   }
 ]

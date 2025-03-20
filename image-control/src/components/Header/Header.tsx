@@ -95,7 +95,7 @@ function Header(lineList: LineListProp) {
           className="app__header__right-part"
           onClick={() => setCsvData([])}
         >
-          <CSVLink data={csvData} filename="observations.csv">
+          <CSVLink data={csvData} filename="observations.csv" target="_blank">
             <FontAwesomeIcon
               icon={faFileDownload}
               size="xl"
