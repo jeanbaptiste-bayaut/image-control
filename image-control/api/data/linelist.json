@@ -1,0 +1,2510 @@
+[
+  {
+    "pattern": "dc02240",
+    "color": "002",
+    "name": "alias",
+    "status": "true"
+  },
+  {
+    "pattern": "dc02240",
+    "color": "102",
+    "name": "alias",
+    "status": "true"
+  },
+  {
+    "pattern": "dc02240",
+    "color": "210",
+    "name": "alias",
+    "status": "true"
+  },
+  {
+    "pattern": "dc02240",
+    "color": "410",
+    "name": "alias",
+    "status": "true"
+  },
+  {
+    "pattern": "adyl100026",
+    "color": "001",
+    "name": "bolsa",
+    "status": "true"
+  },
+  {
+    "pattern": "adyl100026",
+    "color": "3bk",
+    "name": "bolsa",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100551",
+    "color": "026",
+    "name": "central",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100551",
+    "color": "103",
+    "name": "central",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100551",
+    "color": "210",
+    "name": "central",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100551",
+    "color": "256",
+    "name": "central",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100551",
+    "color": "bb2",
+    "name": "central",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100551",
+    "color": "bkw",
+    "name": "central",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100551",
+    "color": "kkg",
+    "name": "central",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100822",
+    "color": "005",
+    "name": "construct",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100822",
+    "color": "026",
+    "name": "construct",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100822",
+    "color": "061",
+    "name": "construct",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100822",
+    "color": "111",
+    "name": "construct",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100822",
+    "color": "210",
+    "name": "construct",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100822",
+    "color": "211",
+    "name": "construct",
+    "status": "true"
+  },
+  {
+    "pattern": "adys100822",
+    "color": "410",
+    "name": "construct",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100822",
+    "color": "bkw",
+    "name": "construct",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "001",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "009",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "022",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "025",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "032",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "061",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "114",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "211",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "310",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "3bk",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "410",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "601",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "806",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "bgm",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "bl0",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "che",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "gbw",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "grw",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "ros",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "ttc",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "wlk",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300529",
+    "color": "wnr",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100647",
+    "color": "211",
+    "name": "crisis 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100647",
+    "color": "2gg",
+    "name": "crisis 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100647",
+    "color": "301",
+    "name": "crisis 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100647",
+    "color": "3bk",
+    "name": "crisis 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100647",
+    "color": "410",
+    "name": "crisis 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100647",
+    "color": "bgm",
+    "name": "crisis 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100647",
+    "color": "bkw",
+    "name": "crisis 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100647",
+    "color": "snd",
+    "name": "crisis 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100647-",
+    "color": "ccc",
+    "name": "crisis 2 (",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100700",
+    "color": "256",
+    "name": "crisis 2 hi wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100700",
+    "color": "310",
+    "name": "crisis 2 hi wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100700",
+    "color": "bb2",
+    "name": "crisis 2 hi wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100700",
+    "color": "chr",
+    "name": "crisis 2 hi wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100442",
+    "color": "byr",
+    "name": "ct graffik sq",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100844",
+    "color": "003",
+    "name": "dc ascend",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100844",
+    "color": "004",
+    "name": "dc ascend",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100844",
+    "color": "025",
+    "name": "dc ascend",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100844",
+    "color": "112",
+    "name": "dc ascend",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100844",
+    "color": "210",
+    "name": "dc ascend",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100844",
+    "color": "256",
+    "name": "dc ascend",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100844",
+    "color": "bkw",
+    "name": "dc ascend",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100844",
+    "color": "kkg",
+    "name": "dc ascend",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100844-",
+    "color": "ksw",
+    "name": "dc ascend (",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100852",
+    "color": "002",
+    "name": "dc ascend s",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100852",
+    "color": "102",
+    "name": "dc ascend s",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100852",
+    "color": "210",
+    "name": "dc ascend s",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02261",
+    "color": "001",
+    "name": "dc astrix",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02261",
+    "color": "101",
+    "name": "dc astrix",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02261",
+    "color": "102",
+    "name": "dc astrix",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02261",
+    "color": "256",
+    "name": "dc astrix",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02261",
+    "color": "410",
+    "name": "dc astrix",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02741",
+    "color": "025",
+    "name": "dc astrix s",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02741",
+    "color": "101",
+    "name": "dc astrix s",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02741",
+    "color": "210",
+    "name": "dc astrix s",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02741",
+    "color": "301",
+    "name": "dc astrix s",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03293",
+    "color": "301",
+    "name": "dc astrix se",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03011",
+    "color": "001",
+    "name": "dc coiler",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03011",
+    "color": "002",
+    "name": "dc coiler",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03011",
+    "color": "003",
+    "name": "dc coiler",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03011",
+    "color": "025",
+    "name": "dc coiler",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03011",
+    "color": "026",
+    "name": "dc coiler",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03011",
+    "color": "210",
+    "name": "dc coiler",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02220",
+    "color": "002",
+    "name": "dc command",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02220",
+    "color": "003",
+    "name": "dc command",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02220",
+    "color": "004",
+    "name": "dc command",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02220",
+    "color": "006",
+    "name": "dc command",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02220",
+    "color": "102",
+    "name": "dc command",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03287",
+    "color": "301",
+    "name": "dc command",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100626",
+    "color": "025",
+    "name": "dc metric",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100742",
+    "color": "256",
+    "name": "dc metric le",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100634",
+    "color": "210",
+    "name": "dc metric s",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300762",
+    "color": "wea",
+    "name": "dc reach",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300580",
+    "color": "072",
+    "name": "hyde",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300580",
+    "color": "3bk",
+    "name": "hyde",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300580",
+    "color": "bgm",
+    "name": "hyde",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300580",
+    "color": "blw",
+    "name": "hyde",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300768",
+    "color": "dgu",
+    "name": "hyde",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300768",
+    "color": "no3",
+    "name": "hyde",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300768",
+    "color": "ol0",
+    "name": "hyde",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300580",
+    "color": "snd",
+    "name": "hyde",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300580",
+    "color": "we9",
+    "name": "hyde",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300744",
+    "color": "002",
+    "name": "kalisvulcmidwnt",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300744",
+    "color": "301",
+    "name": "kalisvulcmidwnt",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100819",
+    "color": "004",
+    "name": "kalynx zero",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100819",
+    "color": "102",
+    "name": "kalynx zero",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100819",
+    "color": "210",
+    "name": "kalynx zero",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100819",
+    "color": "bg3",
+    "name": "kalynx zero",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100615",
+    "color": "112",
+    "name": "lynx zero",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100615",
+    "color": "210",
+    "name": "lynx zero",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100615",
+    "color": "410",
+    "name": "lynx zero",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100615-",
+    "color": "kkw",
+    "name": "lynx zero (",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "021",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "026",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "027",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "118",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "258",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "272",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "301",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "410",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "411",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "bkw",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "che",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "hbw",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "kkg",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "ros",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "wbi",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100765",
+    "color": "wbk",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100743",
+    "color": "006",
+    "name": "manteca 4 hi",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100743",
+    "color": "026",
+    "name": "manteca 4 hi",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100743",
+    "color": "027",
+    "name": "manteca 4 hi",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100743",
+    "color": "062",
+    "name": "manteca 4 hi",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100743",
+    "color": "311",
+    "name": "manteca 4 hi",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100743",
+    "color": "410",
+    "name": "manteca 4 hi",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100743",
+    "color": "bkw",
+    "name": "manteca 4 hi",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100743",
+    "color": "hhb",
+    "name": "manteca 4 hi",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100791",
+    "color": "210",
+    "name": "manteca 4 hi s",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100787",
+    "color": "001",
+    "name": "manteca 4 hi wr",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100787",
+    "color": "210",
+    "name": "manteca 4 hi wr",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100766",
+    "color": "025",
+    "name": "manteca 4 s",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100766",
+    "color": "256",
+    "name": "manteca 4 s",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100766",
+    "color": "310",
+    "name": "manteca 4 s",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100766",
+    "color": "bw6",
+    "name": "manteca 4 s",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100314",
+    "color": "210",
+    "name": "manteca se",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300591",
+    "color": "bgm",
+    "name": "manual",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300591",
+    "color": "bkw",
+    "name": "manual",
+    "status": "false"
+  },
+  {
+    "pattern": "adys700216",
+    "color": "002",
+    "name": "mason 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys700216",
+    "color": "256",
+    "name": "mason 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys700216",
+    "color": "3bk",
+    "name": "mason 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adys700216",
+    "color": "dbr",
+    "name": "mason 2",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb700044",
+    "color": "3bk",
+    "name": "mutiny wr",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb700044",
+    "color": "wea",
+    "name": "mutiny wr",
+    "status": "false"
+  },
+  {
+    "pattern": "302361",
+    "color": "025",
+    "name": "net",
+    "status": "false"
+  },
+  {
+    "pattern": "302361",
+    "color": "1ab",
+    "name": "net",
+    "status": "false"
+  },
+  {
+    "pattern": "302361",
+    "color": "3bk",
+    "name": "net",
+    "status": "false"
+  },
+  {
+    "pattern": "302361",
+    "color": "blw",
+    "name": "net",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03260",
+    "color": "025",
+    "name": "net se",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03260",
+    "color": "101",
+    "name": "net se",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb700045",
+    "color": "256",
+    "name": "peary tr",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb700045",
+    "color": "bb2",
+    "name": "peary tr",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb700045",
+    "color": "dcc",
+    "name": "peary tr",
+    "status": "false"
+  },
+  {
+    "pattern": "300660",
+    "color": "005",
+    "name": "pure",
+    "status": "false"
+  },
+  {
+    "pattern": "300660",
+    "color": "027",
+    "name": "pure",
+    "status": "false"
+  },
+  {
+    "pattern": "300660",
+    "color": "029",
+    "name": "pure",
+    "status": "false"
+  },
+  {
+    "pattern": "300660",
+    "color": "cg5",
+    "name": "pure",
+    "status": "false"
+  },
+  {
+    "pattern": "300660",
+    "color": "go0",
+    "name": "pure",
+    "status": "false"
+  },
+  {
+    "pattern": "300660",
+    "color": "lpb",
+    "name": "pure",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400043",
+    "color": "007",
+    "name": "pure ht wc",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400043",
+    "color": "008",
+    "name": "pure ht wc",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400043",
+    "color": "025",
+    "name": "pure ht wc",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400043",
+    "color": "bgm",
+    "name": "pure ht wc",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400043",
+    "color": "blw",
+    "name": "pure ht wc",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400043",
+    "color": "fwb",
+    "name": "pure ht wc",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400043",
+    "color": "kba",
+    "name": "pure ht wc",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400047",
+    "color": "021",
+    "name": "pure ht wc wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400047",
+    "color": "256",
+    "name": "pure ht wc wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400047",
+    "color": "3bk",
+    "name": "pure ht wc wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400047",
+    "color": "doo",
+    "name": "pure ht wc wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400047",
+    "color": "wea",
+    "name": "pure ht wc wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb100018",
+    "color": "002",
+    "name": "pure ht wr boot",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb100018",
+    "color": "301",
+    "name": "pure ht wr boot",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb100018",
+    "color": "bgm",
+    "name": "pure ht wr boot",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb100018",
+    "color": "wea",
+    "name": "pure ht wr boot",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300151",
+    "color": "001",
+    "name": "pure wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300151",
+    "color": "021",
+    "name": "pure wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300151",
+    "color": "301",
+    "name": "pure wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300151",
+    "color": "we9",
+    "name": "pure wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02635",
+    "color": "001",
+    "name": "recon",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02635",
+    "color": "210",
+    "name": "recon",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02843",
+    "color": "310",
+    "name": "recon",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400066",
+    "color": "bkw",
+    "name": "skyline",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "009",
+    "name": "stag",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "113",
+    "name": "stag",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "114",
+    "name": "stag",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "212",
+    "name": "stag",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "258",
+    "name": "stag",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "2gg",
+    "name": "stag",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "310",
+    "name": "stag",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "365",
+    "name": "stag",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "421",
+    "name": "stag",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "bgm",
+    "name": "stag",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "bgy",
+    "name": "stag",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "byr",
+    "name": "stag",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "che",
+    "name": "stag",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "gbw",
+    "name": "stag",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "gy1",
+    "name": "stag",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "ros",
+    "name": "stag",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "tzp",
+    "name": "stag",
+    "status": "false"
+  },
+  {
+    "pattern": "320188",
+    "color": "whk",
+    "name": "stag",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02399",
+    "color": "001",
+    "name": "stag wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02399",
+    "color": "235",
+    "name": "stag wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100624",
+    "color": "wkm",
+    "name": "striker",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300763",
+    "color": "062",
+    "name": "teknic",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300763",
+    "color": "102",
+    "name": "teknic",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300763",
+    "color": "bgm",
+    "name": "teknic",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300763",
+    "color": "bkw",
+    "name": "teknic",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300763",
+    "color": "chl",
+    "name": "teknic",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300763",
+    "color": "de0",
+    "name": "teknic",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300763",
+    "color": "dgu",
+    "name": "teknic",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300763",
+    "color": "snd",
+    "name": "teknic",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300739",
+    "color": "002",
+    "name": "teknic s",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300739",
+    "color": "025",
+    "name": "teknic s",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300739",
+    "color": "bkw",
+    "name": "teknic s",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300739",
+    "color": "kkg",
+    "name": "teknic s",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300769",
+    "color": "061",
+    "name": "tonik",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300769",
+    "color": "301",
+    "name": "tonik",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300769",
+    "color": "bb2",
+    "name": "tonik",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300770",
+    "color": "bbk",
+    "name": "tonik tx se",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300770",
+    "color": "lgy",
+    "name": "tonik tx se",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300770",
+    "color": "we9",
+    "name": "tonik tx se",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300770",
+    "color": "yrs",
+    "name": "tonik tx se",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300172",
+    "color": "302",
+    "name": "trase sd",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300172",
+    "color": "ngm",
+    "name": "trase sd",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300172-",
+    "color": "kks",
+    "name": "trase sd (",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300126",
+    "color": "bgm",
+    "name": "trase tx",
+    "status": "false"
+  },
+  {
+    "pattern": "adys300126",
+    "color": "bkw",
+    "name": "trase tx",
+    "status": "false"
+  },
+  {
+    "pattern": "adys200075",
+    "color": "001",
+    "name": "versatile",
+    "status": "false"
+  },
+  {
+    "pattern": "adys200075",
+    "color": "111",
+    "name": "versatile",
+    "status": "false"
+  },
+  {
+    "pattern": "adys200075",
+    "color": "bwa",
+    "name": "versatile",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb100019",
+    "color": "210",
+    "name": "versatile hi wr",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb100019",
+    "color": "3bk",
+    "name": "versatile hi wr",
+    "status": "false"
+  },
+  {
+    "pattern": "adys200076",
+    "color": "002",
+    "name": "versatile le",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb700042",
+    "color": "210",
+    "name": "woodland",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb700042",
+    "color": "256",
+    "name": "woodland",
+    "status": "false"
+  },
+  {
+    "pattern": "adyb700042",
+    "color": "bgm",
+    "name": "woodland",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs300243",
+    "color": "111",
+    "name": "chelsea",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs300243",
+    "color": "256",
+    "name": "chelsea",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs300243",
+    "color": "cbl",
+    "name": "chelsea",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs300243",
+    "color": "ros",
+    "name": "chelsea",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs300310",
+    "color": "003",
+    "name": "chelsea pt",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs300310",
+    "color": "101",
+    "name": "chelsea pt",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100172",
+    "color": "001",
+    "name": "construct",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100172",
+    "color": "026",
+    "name": "construct",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100172",
+    "color": "430",
+    "name": "construct",
+    "status": "false"
+  },
+  {
+    "pattern": "300678",
+    "color": "006",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300678",
+    "color": "101",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300678",
+    "color": "114",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300678",
+    "color": "656",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300678",
+    "color": "bhp",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300678",
+    "color": "bws",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300678",
+    "color": "kps",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "300678",
+    "color": "wm5",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "301043",
+    "color": "025",
+    "name": "court graffik s",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02789",
+    "color": "001",
+    "name": "dc astrix",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02789",
+    "color": "101",
+    "name": "dc astrix",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02789",
+    "color": "272",
+    "name": "dc astrix",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02789",
+    "color": "430",
+    "name": "dc astrix",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02744",
+    "color": "002",
+    "name": "dc command",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02744",
+    "color": "003",
+    "name": "dc command",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02744",
+    "color": "256",
+    "name": "dc command",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03278",
+    "color": "025",
+    "name": "dc command se",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100161",
+    "color": "026",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100161",
+    "color": "112",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100161",
+    "color": "256",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100161",
+    "color": "431",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100161",
+    "color": "wpn",
+    "name": "manteca 4",
+    "status": "false"
+  },
+  {
+    "pattern": "adjb100012",
+    "color": "025",
+    "name": "manteca 4 boot",
+    "status": "false"
+  },
+  {
+    "pattern": "adjb100012",
+    "color": "256",
+    "name": "manteca 4 boot",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100162",
+    "color": "026",
+    "name": "manteca 4 mid",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100162",
+    "color": "111",
+    "name": "manteca 4 mid",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100162",
+    "color": "431",
+    "name": "manteca 4 mid",
+    "status": "false"
+  },
+  {
+    "pattern": "adjs100156",
+    "color": "ww0",
+    "name": "manteca 4 pt",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03068",
+    "color": "003",
+    "name": "pure",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03068",
+    "color": "004",
+    "name": "pure",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03068",
+    "color": "102",
+    "name": "pure",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100207",
+    "color": "026",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100207",
+    "color": "102",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100207",
+    "color": "bkw",
+    "name": "court graffik",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03276",
+    "color": "001",
+    "name": "court graffik s",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700064",
+    "color": "bkw",
+    "name": "hthrw prstge ev",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700064",
+    "color": "byr",
+    "name": "hthrw prstge ev",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700064",
+    "color": "dvg",
+    "name": "hthrw prstge ev",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700064",
+    "color": "skl",
+    "name": "hthrw prstge ev",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700064-",
+    "color": "kwb",
+    "name": "hthrw prstge ev",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300395",
+    "color": "004",
+    "name": "manteca 4 hi",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300395",
+    "color": "007",
+    "name": "manteca 4 hi",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300395",
+    "color": "102",
+    "name": "manteca 4 hi",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300398",
+    "color": "256",
+    "name": "manteca 4 hi wr",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300378",
+    "color": "005",
+    "name": "manteca 4 v",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300378",
+    "color": "025",
+    "name": "manteca 4 v",
+    "status": "false"
+  },
+  {
+    "pattern": "adgs100100",
+    "color": "102",
+    "name": "manteca 4 v",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300378",
+    "color": "272",
+    "name": "manteca 4 v",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300378",
+    "color": "411",
+    "name": "manteca 4 v",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300378",
+    "color": "412",
+    "name": "manteca 4 v",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300385",
+    "color": "112",
+    "name": "manteca 4 v sn",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300385",
+    "color": "113",
+    "name": "manteca 4 v sn",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300267",
+    "color": "111",
+    "name": "pure",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300267",
+    "color": "wbd",
+    "name": "pure",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300256",
+    "color": "001",
+    "name": "pure elastic",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300256",
+    "color": "031",
+    "name": "pure elastic",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300256",
+    "color": "310",
+    "name": "pure elastic",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300324",
+    "color": "008",
+    "name": "pure ht ev",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300324",
+    "color": "009",
+    "name": "pure ht ev",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300324",
+    "color": "028",
+    "name": "pure ht ev",
+    "status": "false"
+  },
+  {
+    "pattern": "adgs100099",
+    "color": "102",
+    "name": "pure ht ev",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300324",
+    "color": "310",
+    "name": "pure ht ev",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300324",
+    "color": "bgm",
+    "name": "pure ht ev",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300324",
+    "color": "wea",
+    "name": "pure ht ev",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300329",
+    "color": "112",
+    "name": "pure ht ev sn",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300329",
+    "color": "113",
+    "name": "pure ht ev sn",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300327",
+    "color": "310",
+    "name": "pure ht wnt ev",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300327",
+    "color": "we9",
+    "name": "pure ht wnt ev",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02186",
+    "color": "008",
+    "name": "stag youth",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02186",
+    "color": "009",
+    "name": "stag youth",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02186",
+    "color": "062",
+    "name": "stag youth",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02186",
+    "color": "064",
+    "name": "stag youth",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02186",
+    "color": "410",
+    "name": "stag youth",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300399",
+    "color": "026",
+    "name": "teknic",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs300399",
+    "color": "bkw",
+    "name": "teknic",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02547",
+    "color": "002",
+    "name": "toddler cg v",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02547",
+    "color": "102",
+    "name": "toddler cg v",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02547",
+    "color": "210",
+    "name": "toddler cg v",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02788",
+    "color": "003",
+    "name": "toddler manteca",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02788",
+    "color": "102",
+    "name": "toddler manteca",
+    "status": "false"
+  },
+  {
+    "pattern": "dc02788",
+    "color": "210",
+    "name": "toddler manteca",
+    "status": "false"
+  },
+  {
+    "pattern": "303190",
+    "color": "bb2",
+    "name": "anvil",
+    "status": "false"
+  },
+  {
+    "pattern": "303190",
+    "color": "bgm",
+    "name": "anvil",
+    "status": "false"
+  },
+  {
+    "pattern": "303190",
+    "color": "dgu",
+    "name": "anvil",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700090",
+    "color": "004",
+    "name": "cure",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700090",
+    "color": "025",
+    "name": "cure",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700090",
+    "color": "062",
+    "name": "cure",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400073",
+    "color": "064",
+    "name": "cure",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400073",
+    "color": "065",
+    "name": "cure",
+    "status": "false"
+  },
+  {
+    "pattern": "adgs100097",
+    "color": "101",
+    "name": "cure",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400073",
+    "color": "210",
+    "name": "cure",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700090",
+    "color": "210",
+    "name": "cure",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400073",
+    "color": "410",
+    "name": "cure",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700094",
+    "color": "004",
+    "name": "cure elastic",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700094",
+    "color": "025",
+    "name": "cure elastic",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700094",
+    "color": "062",
+    "name": "cure elastic",
+    "status": "false"
+  },
+  {
+    "pattern": "adgs100098",
+    "color": "101",
+    "name": "cure elastic",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700094",
+    "color": "210",
+    "name": "cure elastic",
+    "status": "false"
+  },
+  {
+    "pattern": "adgs700034",
+    "color": "002",
+    "name": "cure hi top",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700089",
+    "color": "025",
+    "name": "cure hi top",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400072",
+    "color": "025",
+    "name": "cure hi top",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700089",
+    "color": "102",
+    "name": "cure hi top",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400072",
+    "color": "210",
+    "name": "cure hi top",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700089",
+    "color": "210",
+    "name": "cure hi top",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400072",
+    "color": "bgm",
+    "name": "cure hi top",
+    "status": "false"
+  },
+  {
+    "pattern": "adgs700035",
+    "color": "002",
+    "name": "cure hi top ela",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700093",
+    "color": "025",
+    "name": "cure hi top ela",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700093",
+    "color": "102",
+    "name": "cure hi top ela",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700093",
+    "color": "210",
+    "name": "cure hi top ela",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400080",
+    "color": "257",
+    "name": "cure hi top sn",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03266",
+    "color": "210",
+    "name": "cure ht wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03266",
+    "color": "211",
+    "name": "cure ht wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03271",
+    "color": "210",
+    "name": "cure ht wnt yth",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03271",
+    "color": "256",
+    "name": "cure ht wnt yth",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03272",
+    "color": "210",
+    "name": "cure htwntythel",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03272",
+    "color": "256",
+    "name": "cure htwntythel",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03267",
+    "color": "025",
+    "name": "cure low wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03267",
+    "color": "210",
+    "name": "cure low wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700093",
+    "color": "3bk",
+    "name": "dc cure hi e",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700089",
+    "color": "3bk",
+    "name": "dc cure hi top",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400072",
+    "color": "bkw",
+    "name": "dc cure hi top",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400072",
+    "color": "gg4",
+    "name": "dc cure hi top",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400078",
+    "color": "blw",
+    "name": "dc cure s dn",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700090",
+    "color": "001",
+    "name": "dc shoes cure",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700090",
+    "color": "061",
+    "name": "dc shoes cure",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400073",
+    "color": "062",
+    "name": "dc shoes cure",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400073",
+    "color": "blg",
+    "name": "dc shoes cure",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400073",
+    "color": "blk",
+    "name": "dc shoes cure",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400073",
+    "color": "hlc",
+    "name": "dc shoes cure",
+    "status": "false"
+  },
+  {
+    "pattern": "adys400073-",
+    "color": "krk",
+    "name": "dc shoes cure (",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700094",
+    "color": "060",
+    "name": "dc shoes cure e",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700094",
+    "color": "061",
+    "name": "dc shoes cure e",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs700091-",
+    "color": "wkr",
+    "name": "dcshoes cure dn",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "005",
+    "name": "gaveler",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "020",
+    "name": "gaveler",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "061",
+    "name": "gaveler",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100263",
+    "color": "061",
+    "name": "gaveler",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100263",
+    "color": "062",
+    "name": "gaveler",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "063",
+    "name": "gaveler",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "101",
+    "name": "gaveler",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100263",
+    "color": "102",
+    "name": "gaveler",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "bdp",
+    "name": "gaveler",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "bgm",
+    "name": "gaveler",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100263",
+    "color": "bl0",
+    "name": "gaveler",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "bl4",
+    "name": "gaveler",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100263",
+    "color": "blo",
+    "name": "gaveler",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "bo1",
+    "name": "gaveler",
+    "status": "false"
+  },
+  {
+    "pattern": "adys100536",
+    "color": "ebn",
+    "name": "gaveler",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100304",
+    "color": "bkw",
+    "name": "gaveler dn",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100297",
+    "color": "061",
+    "name": "gaveler elastic",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100297",
+    "color": "062",
+    "name": "gaveler elastic",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100297",
+    "color": "102",
+    "name": "gaveler elastic",
+    "status": "false"
+  },
+  {
+    "pattern": "adbs100297",
+    "color": "blo",
+    "name": "gaveler elastic",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03265",
+    "color": "101",
+    "name": "gaveler se",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03265",
+    "color": "256",
+    "name": "gaveler se",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03265",
+    "color": "430",
+    "name": "gaveler se",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03268",
+    "color": "001",
+    "name": "gaveler wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03268",
+    "color": "210",
+    "name": "gaveler wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03269",
+    "color": "001",
+    "name": "gaveler yth wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03269",
+    "color": "210",
+    "name": "gaveler yth wnt",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03270",
+    "color": "001",
+    "name": "gaveler ythwnte",
+    "status": "false"
+  },
+  {
+    "pattern": "dc03270",
+    "color": "210",
+    "name": "gaveler ythwnte",
+    "status": "false"
+  }
+]

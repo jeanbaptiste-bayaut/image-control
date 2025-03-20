@@ -1,0 +1,41 @@
+.modal__button {
+  padding: 0.2em 0.5em;
+  margin-top: 1em;
+  width: 100%;
+}
+
+.modal__container {
+  width: calc(250px);
+  background-color: rgb(230, 230, 229);
+  border-radius: 8px;
+  padding: 1em 0.5em;
+  position: absolute;
+  z-index: 1000;
+}
+
+.modal__content form {
+  display: flex;
+  flex-direction: column;
+}
+
+.modal__content form label {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.modal__content form label:last-child {
+  display: block;
+}
+
+.modal__content__button {
+  padding: 5px 10px;
+  margin-top: 1em;
+  font-size: 1rem;
+  background-color: rgb(78, 171, 109);
+  color: white;
+}
+
+.modal__content__button:hover {
+  background-color: rgb(17, 148, 61);
+}

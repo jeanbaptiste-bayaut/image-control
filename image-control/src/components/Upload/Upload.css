@@ -1,0 +1,32 @@
+.upload__container {
+  margin-top: 1em;
+  max-width: 200px;
+  background-color: rgb(230, 230, 229);
+  border-radius: 8px;
+  padding: 1em 0.5em;
+  position: absolute;
+  z-index: 1000;
+}
+
+.upload__container form {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
+
+.upload__container input {
+  width: 150px;
+  margin-left: 15px;
+  white-space: normal;
+}
+
+.upload__container button {
+  border: 1px solid #ffffff;
+  padding: 5px 10px;
+}
+
+.upload__container button:hover {
+  border: 1px solid #000000;
+}
