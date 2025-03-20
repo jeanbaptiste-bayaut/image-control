@@ -16,6 +16,19 @@
   border-bottom: 1px solid #e9ecef;
 }
 
+.app__header__left-part .menu-burger {
+  width: 50px;
+  margin-left: 1em;
+  cursor: pointer;
+}
+
+.app__header__left-part .menu-burger .menu-burger-line {
+  width: 30px;
+  height: 3px;
+  background-color: #000;
+  margin: 6px 0;
+}
+
 .app__header__right-part {
   margin-right: 1em;
 }

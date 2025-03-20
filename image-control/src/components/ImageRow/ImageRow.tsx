@@ -64,7 +64,7 @@ function ImageRow(lineList: LineListProp) {
 
   function handleSaveObservations() {
     const result = axios.post(
-      'http://localhost:8080/api/products/observations',
+      `${import.meta.env.VITE_API_URL}/api/products/observations`,
       {
         observations: exportTable,
       }
@@ -109,7 +109,7 @@ function ImageRow(lineList: LineListProp) {
 
     try {
       const result = await axios.post(
-        'http://localhost:8080/api/products/status',
+        `${import.meta.env.VITE_API_URL}/api/products/status`,
         { list }
       );
 

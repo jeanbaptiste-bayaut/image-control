@@ -1,4 +1,5 @@
 import axios from 'axios';
+import Nav from './Nav/Nav';
 import { CSVLink } from 'react-csv';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFileDownload } from '@fortawesome/free-solid-svg-icons';
@@ -26,10 +27,11 @@ type ProductStatusProps = {
 function Header(lineList: LineListProp) {
   const [overlay, setOverlay] = useState(false);
   const [csvData, setCsvData] = useState([]);
+  const [nav, setNav] = useState(false);
 
   async function getObservations() {
     const result = await axios.get(
-      'http://localhost:8080/api/products/observations'
+      `${import.meta.env.VITE_API_URL}/api/products/observations`
     );
     setCsvData(result.data);
   }
@@ -37,6 +39,12 @@ function Header(lineList: LineListProp) {
   return (
     <header className="app__header">
       <section className="app__header__left-part">
+        <div className="menu-burger" onClick={() => setNav(!nav)}>
+          <div className="menu-burger-line"></div>
+          <div className="menu-burger-line"></div>
+          <div className="menu-burger-line"></div>
+          {nav ? <Nav nav={nav} setNav={setNav} /> : null}
+        </div>
         <figure className="app__header__thumbnail">
           <img
             onClick={() => setOverlay(true)}

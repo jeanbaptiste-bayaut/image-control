@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import csv2json from 'csvtojson';
 
 const __dirname = path.resolve();
 
@@ -123,5 +124,80 @@ export default class MainController {
         console.error('Error parsing JSON:', parseError);
       }
     });
+  }
+
+  static uploadFile(req, res) {
+    const file = req.file;
+
+    if (!file) {
+      const error = new Error('Please upload a file');
+      error.httpStatusCode = 400;
+      return res.status(400).json({ error: 'Please upload a file' });
+    }
+
+    const dir = path.join(__dirname, 'uploads');
+    const filePath = path.join(dir, file.filename);
+
+    if (filePath) {
+      csv2json({
+        noheader: false,
+        headers: ['pattern', 'color', 'name', 'status'],
+        delimiter: ';',
+      })
+        .fromFile(filePath)
+        .then((jsonObj) => {
+          try {
+            if (jsonObj.length > 0) {
+              fs.writeFile(
+                path.join(__dirname, 'api/data', 'linelist.json'),
+                JSON.stringify(jsonObj, null, 2),
+                (writeError) => {
+                  if (writeError) {
+                    console.error(writeError);
+                    res.status(500).json({ error: 'Error writing file' });
+                  } else {
+                    return { messsage: 'status updated' };
+                  }
+                }
+              );
+            }
+          } catch (parseError) {
+            console.error('Error parsing JSON:', parseError);
+            res.status(500).json({ error: 'Invalid JSON format' });
+          }
+        });
+    }
+
+    const emptyTable = [];
+
+    fs.writeFile(
+      path.join(__dirname, 'api/data', 'observation.json'),
+      JSON.stringify(emptyTable, null, 2),
+      (writeError) => {
+        if (writeError) {
+          console.error(writeError);
+          res.status(500).json({ error: 'Error writing file' });
+        } else {
+          return { messsage: 'status updated' };
+        }
+      }
+    );
+
+    fs.readdir(dir, (err, files) => {
+      if (err) {
+        console.error(err);
+        return;
+      }
+      files.forEach((file) => {
+        fs.unlink(path.join(dir, file), (deleteError) => {
+          if (deleteError) {
+            console.error(deleteError);
+            return;
+          }
+        });
+      });
+    });
+
+    res.json({ messsage: 'file uploaded & observations deleted' });
   }
 }

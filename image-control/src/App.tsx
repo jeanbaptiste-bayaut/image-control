@@ -20,6 +20,7 @@ type ProductStatus = {
 type ListOfProductsStatus = ProductStatus[];
 
 function App() {
+  console.log(import.meta.env.VITE_API_URL);
   const [index, setIndex] = useState<number>(0);
   const [status, setStatus] = useState<ListOfProductsStatus>([]);
   const [listOfProductUnchecked, setListOfProductUnchecked] =
@@ -27,7 +28,9 @@ function App() {
 
   async function getProductsFromApi() {
     try {
-      const response = await axios.get('http://localhost:8080/api/products');
+      const response = await axios.get(
+        `${import.meta.env.VITE_API_URL}/api/products`
+      );
       const data = response.data;
 
       const uncheckedProducts = data.filter(
