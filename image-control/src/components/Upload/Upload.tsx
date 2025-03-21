@@ -17,7 +17,7 @@ function Upload() {
     try {
       // Call to the upload coupon endpoint
       const response = await axios.post(
-        `http://localhost:8080/api/products/list`,
+        `${import.meta.env.VITE_API_URL_PROD}/api/products/list`,
         formData,
         {
           headers: {
