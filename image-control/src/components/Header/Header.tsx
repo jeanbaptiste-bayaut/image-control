@@ -91,18 +91,18 @@ function Header(lineList: LineListProp) {
         </button>
       ) : null}
       {csvData.length > 1 ? (
-        <button
-          className="app__header__right-part"
-          onClick={() => setCsvData([])}
-        >
-          <CSVLink data={csvData} filename="observations.csv" target="_blank">
+        <CSVLink data={csvData} filename="observations.csv">
+          <button
+            className="app__header__right-part"
+            onClick={() => setCsvData([])}
+          >
             <FontAwesomeIcon
               icon={faFileDownload}
               size="xl"
               style={{ color: '#2fa059' }}
             />
-          </CSVLink>
-        </button>
+          </button>
+        </CSVLink>
       ) : null}
     </header>
   );

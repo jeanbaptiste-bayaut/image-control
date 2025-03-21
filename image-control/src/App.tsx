@@ -20,7 +20,6 @@ type ProductStatus = {
 type ListOfProductsStatus = ProductStatus[];
 
 function App() {
-  console.log(import.meta.env.VITE_API_URL);
   const [index, setIndex] = useState<number>(0);
   const [status, setStatus] = useState<ListOfProductsStatus>([]);
   const [listOfProductUnchecked, setListOfProductUnchecked] =
