@@ -31,7 +31,7 @@ function Header(lineList: LineListProp) {
 
   async function getObservations() {
     const result = await axios.get(
-      `${import.meta.env.VITE_API_URL}/api/products/observations`
+      `${import.meta.env.VITE_API_URL_PROD}/api/products/observations`
     );
     setCsvData(result.data);
   }
@@ -74,6 +74,9 @@ function Header(lineList: LineListProp) {
         <p>
           {lineList.lineList[lineList.index].pattern}-
           {lineList.lineList[lineList.index].color}
+        </p>
+        <p>
+          {lineList.index + 1} / {lineList.lineList.length}
         </p>
       </section>
       {csvData.length < 1 ? (
