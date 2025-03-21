@@ -5,6 +5,7 @@ import { createServer } from 'http';
 import MainController from './api/mainController.js';
 import cors from 'cors';
 import upload from './api/middleware/multerConfig.js';
+import fs from 'fs';
 
 const corsOptions = {
   origin: ['http://localhost:5173', 'https://image-control-6ev9.onrender.com/'],
@@ -47,5 +48,12 @@ app.get('*', (req, res) => {
 const PORT = process.env.PORT;
 
 httpServer.listen(PORT, () => {
+  const dir = path.join(__dirname, 'uploads');
+
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir);
+    console.log('Uploads directory created');
+  }
+
   console.log(`Server launched at http://localhost:${PORT}`);
 });

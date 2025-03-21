@@ -84,10 +84,8 @@ export default class MainController {
 
   static writeObservations(req, res) {
     const filePath = path.join(__dirname, 'api/data', 'observation.json');
-    console.log(req.body);
 
     const { observations } = req.body;
-    console.log('observations', observations);
 
     let result = [];
     fs.readFile(filePath, (err, data) => {
@@ -101,8 +99,6 @@ export default class MainController {
         file.map((item) => {
           result.push(item);
         });
-
-        console.log(observations);
 
         const newObservations = [...result, ...observations];
 
@@ -136,6 +132,7 @@ export default class MainController {
     }
 
     const dir = path.join(__dirname, 'uploads');
+
     const filePath = path.join(dir, file.filename);
 
     if (filePath) {
