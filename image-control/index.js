@@ -7,7 +7,7 @@ import cors from 'cors';
 import upload from './api/middleware/multerConfig.js';
 
 const corsOptions = {
-  origin: 'http://localhost:5173',
+  origin: ['http://localhost:5173', 'https://image-control-6ev9.onrender.com/'],
 };
 
 const app = express();
