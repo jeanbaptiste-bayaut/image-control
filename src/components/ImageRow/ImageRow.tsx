@@ -1,7 +1,7 @@
 import './ImageRow.css';
 import Modal from './Modal/Modal';
 import axios from 'axios';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFloppyDisk } from '@fortawesome/free-solid-svg-icons';
 
@@ -61,10 +61,13 @@ function ImageRow(lineList: LineListProp) {
   });
   const [exportTable, setExportTable] = useState<FormDataProps[]>([]);
   const [active, setActive] = useState(false);
+  const [saved, setSaved] = useState(false);
 
   function handleSaveObservations() {
     const result = axios.post(
-      `${import.meta.env.VITE_API_URL_PROD}/api/products/observations`,
+      import.meta.env.ENV === 'DEV'
+        ? `${import.meta.env.VITE_API_URL}`
+        : `${import.meta.env.VITE_API_URL_PROD}` + '/api/products/observations',
       {
         observations: exportTable,
       }
@@ -73,6 +76,8 @@ function ImageRow(lineList: LineListProp) {
     if (!result) {
       console.error('Error saving observations');
     }
+    setSaved(!saved);
+    setTimeout(setSaved, 1000, false);
 
     setExportTable([]);
   }
@@ -109,7 +114,9 @@ function ImageRow(lineList: LineListProp) {
 
     try {
       const result = await axios.post(
-        `${import.meta.env.VITE_API_URL_PROD}/api/products/status`,
+        import.meta.env.ENV === 'DEV'
+          ? `${import.meta.env.VITE_API_URL}`
+          : `${import.meta.env.VITE_API_URL}` + '/api/products/status',
         { list }
       );
 
@@ -120,6 +127,26 @@ function ImageRow(lineList: LineListProp) {
       console.error(error);
     }
   }
+
+  useEffect(() => {
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === 'ArrowLeft' && lineList.index > 0) {
+        lineList.setIndex(lineList.index - 1);
+      }
+      if (
+        event.key === 'ArrowRight' &&
+        lineList.index < lineList.lineList.length - 1
+      ) {
+        changeStatus(lineList.lineList[lineList.index]);
+        lineList.setIndex(lineList.index + 1);
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => {
+      window.removeEventListener('keydown', handleKeyDown);
+    };
+  }, [lineList, lineList.index]);
 
   return (
     <section className="app__image__row">
@@ -132,6 +159,7 @@ function ImageRow(lineList: LineListProp) {
         </button>
         <section className="app__image__row__buttons__right">
           <button
+            tabIndex={0}
             disabled={lineList.index == 0}
             className="app__image__row__button"
             onClick={() => lineList.setIndex(lineList.index - 1)}
@@ -153,6 +181,7 @@ function ImageRow(lineList: LineListProp) {
             }}
           >
             <FontAwesomeIcon icon={faFloppyDisk} size="xl" />
+            {saved ? <small style={{ marginLeft: '5px' }}>saved</small> : null}
           </button>
         </section>
       </div>

@@ -4,7 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "node --watch index.js",
+    "dev": "ENV=DEV && node --watch index.js",
+    "start": "ENV=PROD && node index.js",
     "frontdev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
@@ -28,6 +29,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
+    "@types/node": "^22.13.13",
     "@types/react": "^19.0.10",
     "@types/react-csv": "^1.1.10",
     "@types/react-dom": "^19.0.4",

@@ -6,9 +6,14 @@ import MainController from './api/mainController.js';
 import cors from 'cors';
 import upload from './api/middleware/multerConfig.js';
 import fs from 'fs';
+import { logWritter } from './api/middleware/logWritter.js';
 
 const corsOptions = {
-  origin: ['http://localhost:5173', 'https://image-control-6ev9.onrender.com/'],
+  origin: [
+    'http://localhost:5173',
+    'https://image-control-6ev9.onrender.com/',
+    'http://localhost:8080',
+  ],
 };
 
 const app = express();
@@ -25,11 +30,11 @@ app.get('/api/products', (req, res) => {
   MainController.getProducts(req, res);
 });
 
-app.post('/api/products/status', (req, res) => {
+app.post('/api/products/status', logWritter, (req, res) => {
   MainController.setProductStatus(req, res);
 });
 
-app.post('/api/products/observations', (req, res) => {
+app.post('/api/products/observations', logWritter, (req, res) => {
   MainController.writeObservations(req, res);
 });
 
@@ -39,6 +44,10 @@ app.get('/api/products/observations', (req, res) => {
 
 app.post('/api/products/list', upload.single('file'), (req, res) => {
   MainController.uploadFile(req, res);
+});
+
+app.get('/api/logs', (req, res) => {
+  res.sendFile(path.join(__dirname, '/api/logs', 'app.log'));
 });
 
 app.get('*', (req, res) => {

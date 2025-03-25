@@ -9,6 +9,7 @@ export default class MainController {
     const { list } = req.body;
 
     const filePath = path.join(__dirname, 'api/data', 'linelist.json');
+
     fs.readFile(filePath, (err, data) => {
       if (err) {
         console.error(err);

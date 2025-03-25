@@ -26,9 +26,10 @@ function App() {
     useState<ProductList>([]);
 
   async function getProductsFromApi() {
+    console.log('ici', import.meta.env.MODE);
     try {
       const response = await axios.get(
-        `${import.meta.env.VITE_API_URL}/api/products`
+        `${import.meta.env.VITE_API_URL}` + '/api/products'
       );
       const data = response.data;
 
