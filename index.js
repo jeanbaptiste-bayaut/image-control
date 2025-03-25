@@ -54,7 +54,7 @@ app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, './dist', 'index.html'));
 });
 
-const PORT = process.env.PORT;
+const PORT = process.env.ENV == 'DEV' ? 6464 : process.env.PORT;
 
 httpServer.listen(PORT, () => {
   const dir = path.join(__dirname, 'uploads');

@@ -31,9 +31,7 @@ function Header(lineList: LineListProp) {
 
   async function getObservations() {
     const result = await axios.get(
-      import.meta.env.ENV === 'DEV'
-        ? `${import.meta.env.VITE_API_URL}`
-        : `${import.meta.env.VITE_API_URL_PROD}` + '/api/products/observations'
+      `${import.meta.env.VITE_API_URL}` + '/api/products/observations'
     );
     setCsvData(result.data);
   }

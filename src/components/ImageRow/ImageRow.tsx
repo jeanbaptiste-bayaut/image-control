@@ -65,9 +65,7 @@ function ImageRow(lineList: LineListProp) {
 
   function handleSaveObservations() {
     const result = axios.post(
-      import.meta.env.ENV === 'DEV'
-        ? `${import.meta.env.VITE_API_URL}`
-        : `${import.meta.env.VITE_API_URL_PROD}` + '/api/products/observations',
+      `${import.meta.env.VITE_API_URL}` + '/api/products/observations',
       {
         observations: exportTable,
       }
@@ -114,9 +112,7 @@ function ImageRow(lineList: LineListProp) {
 
     try {
       const result = await axios.post(
-        import.meta.env.ENV === 'DEV'
-          ? `${import.meta.env.VITE_API_URL}`
-          : `${import.meta.env.VITE_API_URL}` + '/api/products/status',
+        `${import.meta.env.VITE_API_URL}` + '/api/products/status',
         { list }
       );
 
