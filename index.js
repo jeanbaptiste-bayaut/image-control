@@ -47,6 +47,10 @@ app.post('/api/products/list', upload.single('file'), (req, res) => {
 });
 
 app.get('/api/logs', (req, res) => {
+  if (!fs.existsSync(path.join(__dirname, '/api/logs'))) {
+    fs.mkdirSync(path.join(__dirname, '/api/logs'));
+    console.log('Logs directory created');
+  }
   res.sendFile(path.join(__dirname, '/api/logs', 'app.log'));
 });
 
